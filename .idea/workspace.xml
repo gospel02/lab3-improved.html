@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="38877994-36b9-4327-ad16-bff4d147d5a4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab3-improved.html" beforeDir="false" afterPath="$PROJECT_DIR$/lab3-improved.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -18,6 +17,7 @@
     <session id="1606721644">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -77,11 +77,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="3047" />
-    <option name="y" value="38" />
-    <option name="width" value="1823" />
-    <option name="height" value="998" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="490" />
+    <option name="y" value="471" />
+    <option name="width" value="2735" />
+    <option name="height" value="1497" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -131,16 +131,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1536203328794</updated>
-      <workItem from="1536203330093" duration="4118000" />
+      <workItem from="1536203330093" duration="4739000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4118000" />
+    <option name="totallyTimeSpent" value="4739000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="3047" y="38" width="1823" height="998" extended-state="0" />
-    <editor active="true" />
+    <frame x="3069" y="19" width="1823" height="998" extended-state="0" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25266108" />
